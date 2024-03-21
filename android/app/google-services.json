@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "42116415858",
+    "firebase_url": "https://trash-to-cash-20037-default-rtdb.firebaseio.com",
+    "project_id": "trash-to-cash-20037",
+    "storage_bucket": "trash-to-cash-20037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42116415858:android:33e775b22d800996115deb",
+        "android_client_info": {
+          "package_name": "com.example.trash_to_cash_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42116415858-0aumcpe855deuj4i980qkhhbluajpph9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxtz7f4cRHSY_borZJmI5mmzFQqhl1FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42116415858-0aumcpe855deuj4i980qkhhbluajpph9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42116415858-3dj44bq991pe7808cu0c8ut7uevjv4v3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trashToCashFlutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42116415858:android:f6c586377ae068d5115deb",
+        "android_client_info": {
+          "package_name": "com.skrb7f16.trashtocash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42116415858-evk927j764gi4ui7jk67kmvb26avdls1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skrb7f16.trashtocash",
+            "certificate_hash": "142860253d9c46d81c5555d9556024a095c1815a"
+          }
+        },
+        {
+          "client_id": "42116415858-0aumcpe855deuj4i980qkhhbluajpph9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxtz7f4cRHSY_borZJmI5mmzFQqhl1FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42116415858-0aumcpe855deuj4i980qkhhbluajpph9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42116415858-3dj44bq991pe7808cu0c8ut7uevjv4v3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trashToCashFlutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

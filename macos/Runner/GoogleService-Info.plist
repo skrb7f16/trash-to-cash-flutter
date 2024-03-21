@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>42116415858-3dj44bq991pe7808cu0c8ut7uevjv4v3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.42116415858-3dj44bq991pe7808cu0c8ut7uevjv4v3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>42116415858-evk927j764gi4ui7jk67kmvb26avdls1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAyutfpfmRAIv9m8uyioEeCfF1biw2YPM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>42116415858</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.trashToCashFlutter.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>trash-to-cash-20037</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trash-to-cash-20037.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:42116415858:ios:f9f839ca206336ba115deb</string>
+	<key>DATABASE_URL</key>
+	<string>https://trash-to-cash-20037-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
